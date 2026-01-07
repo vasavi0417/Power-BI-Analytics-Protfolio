@@ -1,39 +1,56 @@
-# Power-BI-Analytics-Project
-Power BI Dashboards
+# Power BI Analytics Portfolio
 
-NSF Insights
-Non-Sufficient Funds (NSF) report is a critical tool for monitoring payment failures due to insufficient funds. This report helps track bounced checks and failed transactions, enabling the agency to quickly identify delinquent accounts and take timely corrective actions. By analyzing the frequency and patterns of NSF occurrences, the agency can assess risk factors, implement better credit control strategies, and improve recovery rates.
-Purpose of the Non-Sufficient Funds (NSF) Dashboard
+## Overview
+This repository showcases my Power BI analytics work, demonstrating how raw data
+is transformed into interactive dashboards that support strategic, operational,
+and executive-level decision-making.
 
-The NSF dashboard was developed to provide detailed insights into instances of payment failures due to non-sufficient funds, offering visibility into key patterns and trends. Its purpose includes:
+Power BI enables organizations to monitor KPIs in real time, identify trends,
+detect risks early, and drive data-driven decisions through intuitive visual
+analytics.
 
-Track Payment Failures: Monitor and analyze failed transactions due to non-sufficient funds across various departments and clients.
-Identify High-Risk Accounts: Highlight departments and individuals responsible for significant amounts of NSF collections, helping to prioritize recovery efforts and manage high-risk accounts more proactively.
-Correction Tracking: Track and display corrections made after NSF occurrences, including whether the outstanding amounts are closed in a single payment or negotiated (e.g., waiving interest). This feature provides insights into how quickly and effectively debts are being resolved.
-Optimize Collection Strategies: By showcasing detailed corrections and the nature of payments, the dashboard supports more efficient recovery strategies and better negotiations with clients.
-Support Communication and Risk Management: Provide timely insights that help the company initiate early communication with clients regarding payment issues and ensure the appropriate follow-up measures are taken.
+## How Power BI Helps Businesses Make Better Decisions
+- Converts complex datasets into clear, actionable insights
+- Enables real-time KPI tracking and performance monitoring
+- Supports faster and more informed executive decisions
+- Improves reporting efficiency through automation and self-service analytics
+- Allows drill-down analysis to uncover root causes and opportunities
 
+## Tools & Technologies
+- Power BI (Data Modeling, DAX, Visuals)
+- SQL (Data Extraction & Transformation)
+- Power Query (Data Cleaning & Shaping)
+- Excel / CSV (Source Data)
 
+---
 
-![Executive Overview](https://github.com/vasavi0417/Power-BI-Analytics-Project/blob/main/3.png)
+## 📊 Power BI Projects
 
+### 1️⃣ Sales Analytics Dashboard
+🔗 [View Project](Project_1_Sales_Analytics)
 
+Provides insights into revenue trends, regional performance, and growth metrics,
+helping leadership identify high-performing areas and optimize sales strategies.
 
+---
 
+### 2️⃣ HR Analytics Dashboard
+🔗 [View Project](Project_2_HR_Analytics)
 
-I developed NSF dashboard for a comprehensive solution to enhance data visibility and improve collection efficiency. The key elements include:
+Analyzes workforce metrics such as attrition, hiring funnel, and headcount trends
+to support data-driven workforce planning and retention strategies.
 
-Showcasing NSF Data: The dashboard presents detailed information on NSF amounts, broken down by client, department, and desk name, enabling stakeholders to track who is responsible for the collections.
-Payment Method Analysis: I compared different payment methods used to collect both NSF and general amounts, helping the business identify which methods might need to be discouraged due to inefficiency or high costs. This analysis also provides valuable data for negotiating lower interest rates with payment processors, contributing to long-term financial benefits.
-Geographical and Office Insights: The dashboard highlights state and office-level performance, showing where NSF collections are higher, allowing collection agents to be guided and incentivized to improve their performance.
-Visualization Techniques: To present the data effectively, I used a variety of visualization tools including tables, bar graphs, pie charts, bookmarks, slicers, and selection panes, making the information easily navigable and actionable.
-The NSF Dashboard provided several key achievements:
+---
 
-Identifying Key Players in NSF Transactions: The dashboard helped pinpoint specific individuals and departments involved in higher volumes of NSF transactions, allowing management to focus on these areas and improve oversight. This enabled more targeted training and monitoring of those responsible for collecting the NSF amounts.
-Improved Collector Efficiency: By giving collectors insights into NSF accounts, the dashboard helped them become more strategic and efficient in managing and recovering these funds. This allowed them to be more prepared when handling accounts prone to NSF transactions.
-Enhanced Financial Tracking for Directors: For director-level decision-makers, the dashboard provided the ability to tally bank amounts with collections, offering a clearer and more accurate financial picture. This gave them a better understanding of the company’s financial health on a monthly and yearly basis.
-Historical Comparisons: The dashboard allowed the company to compare current NSF trends with past years' data, giving directors insights into performance improvements or areas requiring attention, leading to more data-driven decision-making for future strategies.
+### 3️⃣ Finance Analytics Dashboard
+🔗 [View Project](Project_3_Finance_Analytics)
 
+Tracks budget vs actuals, financial KPIs, and variance analysis, enabling finance
+teams to monitor performance and improve forecasting accuracy.
 
-![Executive Overview](
-https://github.com/vasavi0417/Power-BI-Analytics-Project/blob/main/3.png)
+---
+
+## Why This Portfolio Matters
+These projects reflect real-world business intelligence scenarios where data is
+modeled, analyzed, and visualized to support stakeholders across sales, HR, and
+finance functions.
