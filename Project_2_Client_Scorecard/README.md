@@ -16,7 +16,7 @@ Financial Recovery: The dashboard provides insights into how much money is being
 Proactive Debt Management: By tracking these metrics, the dashboard helps the team be proactive in identifying and managing debtors, allowing for timely intervention to minimize losses and improve recovery rates.
 
 
-### Executive Overview
+### Map View 
 ![Map View](https://github.com/vasavi0417/Power-BI-Analytics-Project/blob/main/images/Clientscorecard2.png)
 
 
