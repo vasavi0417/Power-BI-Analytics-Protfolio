@@ -40,7 +40,7 @@ optimize talent strategies.
 - Reduced manual reporting effort by consolidating multiple HR reports into
   a single interactive dashboard
 
-![Executive Overview](https://github.com/vasavi0417/Power-BI-Analytics-Project/blob/main/1.png)
+![Executive Overview](https://github.com/vasavi0417/Power-BI-Analytics-Project/blob/main/images/HR.png)
 
 ## Why This Dashboard Matters
 This project demonstrates how Power BI can transform HR data into strategic insights,
