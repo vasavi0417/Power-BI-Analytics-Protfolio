@@ -36,6 +36,5 @@ Enhanced Financial Tracking for Directors: For director-level decision-makers, t
 Historical Comparisons: The dashboard allowed the company to compare current NSF trends with past years' data, giving directors insights into performance improvements or areas requiring attention, leading to more data-driven decision-making for future strategies.
 
 
-![Executive Overview](
-https://github.com/vasavi0417/Power-BI-Analytics-Project/blob/main/3.png)
+![Executive Overview](https://github.com/vasavi0417/Power-BI-Analytics-Project/blob/main/images/NSF1.png)
 
