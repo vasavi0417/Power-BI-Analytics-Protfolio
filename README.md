@@ -21,7 +21,6 @@ Support Communication and Risk Management: Provide timely insights that help the
 
 
 
-
 I developed NSF dashboard for a comprehensive solution to enhance data visibility and improve collection efficiency. The key elements include:
 
 Showcasing NSF Data: The dashboard presents detailed information on NSF amounts, broken down by client, department, and desk name, enabling stakeholders to track who is responsible for the collections.
@@ -34,3 +33,7 @@ Identifying Key Players in NSF Transactions: The dashboard helped pinpoint speci
 Improved Collector Efficiency: By giving collectors insights into NSF accounts, the dashboard helped them become more strategic and efficient in managing and recovering these funds. This allowed them to be more prepared when handling accounts prone to NSF transactions.
 Enhanced Financial Tracking for Directors: For director-level decision-makers, the dashboard provided the ability to tally bank amounts with collections, offering a clearer and more accurate financial picture. This gave them a better understanding of the company’s financial health on a monthly and yearly basis.
 Historical Comparisons: The dashboard allowed the company to compare current NSF trends with past years' data, giving directors insights into performance improvements or areas requiring attention, leading to more data-driven decision-making for future strategies.
+
+
+![Executive Overview](
+https://github.com/vasavi0417/Power-BI-Analytics-Project/blob/main/3.png)
