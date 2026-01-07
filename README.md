@@ -27,7 +27,7 @@ analytics.
 ## 📊 Power BI Projects
 
 ### 1️⃣ Sales Analytics Dashboard
-🔗 [View Project](Project_1_Sales_Analytics)
+🔗 [View Project]([Project_1_Sales_Analytics](https://github.com/vasavi0417/Power-BI-Analytics-Project/tree/main/Project_1_Non_Sufficient_Funds_Dashboardd))
 
 Provides insights into revenue trends, regional performance, and growth metrics,
 helping leadership identify high-performing areas and optimize sales strategies.
